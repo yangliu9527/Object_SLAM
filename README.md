@@ -16,9 +16,9 @@ This is an object-level semantic visual system, which is based on [ORB_SLAM2](ht
 }
 ```
 
-![image](https://github.com/yangliu9527/object_slam/blob/main/example_picutures/ObjectMappingKITTI1.gif)
+![image](https://github.com/yangliu9527/Object_SLAM/blob/master/example_picutures/ObjectMappingKITTI1.gif)
 
-![image](https://github.com/yangliu9527/object_slam/blob/main/example_picutures/ObjectMappingTUM_fr2_desk.gif)
+![image](https://github.com/yangliu9527/Object_SLAM/blob/master/example_picutures/ObjectMappingTUM_fr2_desk.gif)
 
 # 1. Prerequisites
 We have tested the library in **Ubuntu 18.04**, but it should be easy to compile in other platforms. A powerful computer (e.g. i7) will ensure real-time performance and provide more stable and accurate results.
